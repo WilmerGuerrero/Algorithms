@@ -1,0 +1,12 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "This exercises will improve my skills in the algorithms solves",
+  "main": "index.js",
+  "scripts": {
+    "sumFromArray":"sumFromArray.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilmer Guerrero",
+  "license": "ISC"
+}
